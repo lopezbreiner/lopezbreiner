@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": None,
+   "execution_count": joel,
    "metadata": {},
    "outputs": [],
    "source": [
